@@ -14,11 +14,27 @@ a {
   color: white;
 
 }
+h2  {
+  font-size: 32px;
+  font-weight: bold;
+
+}
+p {
+  font-size: 14px;
+}
 
 .head {
-  background-color:green;
+  background-color:mediumspringgreen;
   background-image: url(./Resources/pictures/the-flatiron-building.png);
-  background-size: cover;
-  background-position: center;
-  height: auto;
+  background-size: 300px;
+  width: 500
+}
+.second-header h2 {
+  background-image: url(./Resources/pictures/the-flatiron-building.png);
+}
+footer  {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
 }
