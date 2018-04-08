@@ -23,18 +23,19 @@ p {
   font-size: 14px;
 }
 
-.head {
-  background-color:mediumspringgreen;
-  background-image: url(./Resources/pictures/the-flatiron-building.png);
-  background-size: 300px;
-  width: 500
-}
-.second-header h2 {
-  background-image: url(./Resources/pictures/the-flatiron-building.png);
-}
 footer  {
   text-align: left;
   background-color: dimgray;
   color: white;
   font-size: 11px;
+}
+
+.head {
+  background-color:;
+  background-image: url(../pictures/the-flatiron-building.png);
+
+}
+.second-header {
+  background-image: url(../pictures/the-flatiron-building.png);
+  color: white;
 }
